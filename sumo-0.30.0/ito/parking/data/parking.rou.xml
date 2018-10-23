@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on Fri Nov 11 12:44:14 2016 by SUMO duarouter Version 0.27.1
+<?xml version="1.0" encoding="UTF-8"?>
+
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/duarouterConfiguration.xsd">
+
+    <input>
+        <net-file value="parking.net.xml"/>
+        <flow-files value="parking.flw.xml"/>
+    </input>
+
+    <output>
+        <output-file value="parking.rou.xml"/>
+    </output>
+
+</configuration>
+-->
+
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+    <vehicle id="flow01.0" depart="0.00">
+        <route edges="in -0200_0000 0000_2100 out"/>
+    </vehicle>
+    <vehicle id="flow01.1" depart="16.67">
+        <route edges="in -0200_0000 0000_2100 out"/>
+    </vehicle>
+    <vehicle id="flow01.2" depart="33.33">
+        <route edges="in -0200_0000 0000_2100 out"/>
+    </vehicle>
+    <vehicle id="flow01.3" depart="50.00">
+        <route edges="in -0200_0000 0000_2100 out"/>
+    </vehicle>
+    <vehicle id="flow01.4" depart="66.66">
+        <route edges="in -0200_0000 0000_2100 out"/>
+    </vehicle>
+    <vehicle id="flow01.5" depart="83.33">
+        <route edges="in -0200_0000 0000_2100 out"/>
+    </vehicle>
+    <vehicle id="flow01.6" depart="100.00">
+        <route edges="in -0200_0000 0000_2100 out"/>
+    </vehicle>
+    <vehicle id="flow01.7" depart="116.66">
+        <route edges="in -0200_0000 0000_2100 out"/>
+    </vehicle>
+    <vehicle id="flow01.8" depart="133.33">
+        <route edges="in -0200_0000 0000_2100 out"/>
+    </vehicle>
+    <vehicle id="flow01.9" depart="149.99">
+        <route edges="in -0200_0000 0000_2100 out"/>
+    </vehicle>
+    <vehicle id="flow01.10" depart="166.66">
+        <route edges="in -0200_0000 0000_2100 out"/>
+    </vehicle>
+    <vehicle id="flow01.11" depart="183.33">
+        <route edges="in -0200_0000 0000_2100 out"/>
+    </vehicle>
+    <vehicle id="flow01.12" depart="199.99">
+        <route edges="in -0200_0000 0000_2100 out"/>
+    </vehicle>
+    <vehicle id="flow01.13" depart="216.66">
+        <route edges="in -0200_0000 0000_2100 out"/>
+    </vehicle>
+    <vehicle id="flow01.14" depart="233.32">
+        <route edges="in -0200_0000 0000_2100 out"/>
+    </vehicle>
+    <vehicle id="flow01.15" depart="249.99">
+        <route edges="in -0200_0000 0000_2100 out"/>
+    </vehicle>
+    <vehicle id="flow01.16" depart="266.66">
+        <route edges="in -0200_0000 0000_2100 out"/>
+    </vehicle>
+    <vehicle id="flow01.17" depart="283.32">
+        <route edges="in -0200_0000 0000_2100 out"/>
+    </vehicle>
+    <vehicle id="flow01.18" depart="299.99">
+        <route edges="in -0200_0000 0000_2100 out"/>
+    </vehicle>
+    <vehicle id="flow01.19" depart="316.65">
+        <route edges="in -0200_0000 0000_2100 out"/>
+    </vehicle>
+    <vehicle id="flow01.20" depart="333.32">
+        <route edges="in -0200_0000 0000_2100 out"/>
+    </vehicle>
+    <vehicle id="flow01.21" depart="349.99">
+        <route edges="in -0200_0000 0000_2100 out"/>
+    </vehicle>
+    <vehicle id="flow01.22" depart="366.65">
+        <route edges="in -0200_0000 0000_2100 out"/>
+    </vehicle>
+    <vehicle id="flow01.23" depart="383.32">
+        <route edges="in -0200_0000 0000_2100 out"/>
+    </vehicle>
+    <vehicle id="flow01.24" depart="399.98">
+        <route edges="in -0200_0000 0000_2100 out"/>
+    </vehicle>
+    <vehicle id="flow01.25" depart="416.65">
+        <route edges="in -0200_0000 0000_2100 out"/>
+    </vehicle>
+    <vehicle id="flow01.26" depart="433.32">
+        <route edges="in -0200_0000 0000_2100 out"/>
+    </vehicle>
+    <vehicle id="flow01.27" depart="449.98">
+        <route edges="in -0200_0000 0000_2100 out"/>
+    </vehicle>
+    <vehicle id="flow01.28" depart="466.65">
+        <route edges="in -0200_0000 0000_2100 out"/>
+    </vehicle>
+    <vehicle id="flow01.29" depart="483.31">
+        <route edges="in -0200_0000 0000_2100 out"/>
+    </vehicle>
+    <vehicle id="flow02.0" depart="750.00">
+        <route edges="in -0200_0000 0000_2100 out"/>
+    </vehicle>
+    <vehicle id="flow02.1" depart="765.00">
+        <route edges="in -0200_0000 0000_2100 out"/>
+    </vehicle>
+    <vehicle id="flow02.2" depart="780.00">
+        <route edges="in -0200_0000 0000_2100 out"/>
+    </vehicle>
+    <vehicle id="flow02.3" depart="795.00">
+        <route edges="in -0200_0000 0000_2100 out"/>
+    </vehicle>
+    <vehicle id="flow02.4" depart="810.00">
+        <route edges="in -0200_0000 0000_2100 out"/>
+    </vehicle>
+    <vehicle id="flow02.5" depart="825.00">
+        <route edges="in -0200_0000 0000_2100 out"/>
+    </vehicle>
+    <vehicle id="flow02.6" depart="840.00">
+        <route edges="in -0200_0000 0000_2100 out"/>
+    </vehicle>
+    <vehicle id="flow02.7" depart="855.00">
+        <route edges="in -0200_0000 0000_2100 out"/>
+    </vehicle>
+    <vehicle id="flow02.8" depart="870.00">
+        <route edges="in -0200_0000 0000_2100 out"/>
+    </vehicle>
+    <vehicle id="flow02.9" depart="885.00">
+        <route edges="in -0200_0000 0000_2100 out"/>
+    </vehicle>
+    <vehicle id="flow02.10" depart="900.00">
+        <route edges="in -0200_0000 0000_2100 out"/>
+    </vehicle>
+    <vehicle id="flow02.11" depart="915.00">
+        <route edges="in -0200_0000 0000_2100 out"/>
+    </vehicle>
+    <vehicle id="flow02.12" depart="930.00">
+        <route edges="in -0200_0000 0000_2100 out"/>
+    </vehicle>
+    <vehicle id="flow02.13" depart="945.00">
+        <route edges="in -0200_0000 0000_2100 out"/>
+    </vehicle>
+    <vehicle id="flow02.14" depart="960.00">
+        <route edges="in -0200_0000 0000_2100 out"/>
+    </vehicle>
+    <vehicle id="flow02.15" depart="975.00">
+        <route edges="in -0200_0000 0000_2100 out"/>
+    </vehicle>
+    <vehicle id="flow02.16" depart="990.00">
+        <route edges="in -0200_0000 0000_2100 out"/>
+    </vehicle>
+    <vehicle id="flow02.17" depart="1005.00">
+        <route edges="in -0200_0000 0000_2100 out"/>
+    </vehicle>
+    <vehicle id="flow02.18" depart="1020.00">
+        <route edges="in -0200_0000 0000_2100 out"/>
+    </vehicle>
+    <vehicle id="flow02.19" depart="1035.00">
+        <route edges="in -0200_0000 0000_2100 out"/>
+    </vehicle>
+    <vehicle id="flow02.20" depart="1050.00">
+        <route edges="in -0200_0000 0000_2100 out"/>
+    </vehicle>
+    <vehicle id="flow02.21" depart="1065.00">
+        <route edges="in -0200_0000 0000_2100 out"/>
+    </vehicle>
+    <vehicle id="flow02.22" depart="1080.00">
+        <route edges="in -0200_0000 0000_2100 out"/>
+    </vehicle>
+    <vehicle id="flow02.23" depart="1095.00">
+        <route edges="in -0200_0000 0000_2100 out"/>
+    </vehicle>
+    <vehicle id="flow02.24" depart="1110.00">
+        <route edges="in -0200_0000 0000_2100 out"/>
+    </vehicle>
+    <vehicle id="flow02.25" depart="1125.00">
+        <route edges="in -0200_0000 0000_2100 out"/>
+    </vehicle>
+    <vehicle id="flow02.26" depart="1140.00">
+        <route edges="in -0200_0000 0000_2100 out"/>
+    </vehicle>
+    <vehicle id="flow02.27" depart="1155.00">
+        <route edges="in -0200_0000 0000_2100 out"/>
+    </vehicle>
+    <vehicle id="flow02.28" depart="1170.00">
+        <route edges="in -0200_0000 0000_2100 out"/>
+    </vehicle>
+    <vehicle id="flow02.29" depart="1185.00">
+        <route edges="in -0200_0000 0000_2100 out"/>
+    </vehicle>
+</routes>

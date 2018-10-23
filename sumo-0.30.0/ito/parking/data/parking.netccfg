@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/netconvertConfiguration.xsd">
+  <input>
+    <node-files value="parking.nod.xml" />
+    <edge-files value="parking.edg.xml" />
+  </input>
+
+  <output>
+    <output-file value="parking.net.xml" />
+  </output>
+
+  <processing>
+    <no-turnarounds value="true" />
+    <lefthand value="true" />
+  </processing>
+</configuration>

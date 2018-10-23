@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+  <route id="reroute01" edges="84515125#3 84515125#4 84515125#5 84515125#6 84515125#7 84515125#8 84515125#9 84515125#10 -161947715#2 161947715#0"/>
+</routes>

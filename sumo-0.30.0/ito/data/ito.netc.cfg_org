@@ -1,0 +1,30 @@
+<configuration>
+
+	<input>
+		<osm-files value="map.osm" />
+		<type-files value="osmPolyconvert.typ.xml" />
+	</input>
+
+	<output>
+		<output-file value="ito.net.xml" />
+	</output>
+
+	<tls_building>
+		<tls.guess-signals value="true" />
+		<tls.discard-simple value="true" />
+		<tls.join value="true" />
+	</tls_building>
+
+	<ramp_guessing>
+		<ramps.guess value="true" />
+	</ramp_guessing>
+
+	<processing>
+		<geometry.remove value="true" />
+		<roundabouts.guess value="true" />
+		<junctions.join value="true" />
+
+		<no-turnarounds value="true" />
+		<lefthand value="true" />
+	</processing>
+</configuration>

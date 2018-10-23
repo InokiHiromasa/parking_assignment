@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 09/13/16 19:47:23 by SUMO duarouter Version 0.27.1
+<?xml version="1.0" encoding="UTF-8"?>
+
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/duarouterConfiguration.xsd">
+
+    <input>
+        <net-file value="ito.net.xml"/>
+        <trip-files value="test.trip.xml"/>
+    </input>
+
+    <output>
+        <output-file value="test.rou.xml"/>
+    </output>
+
+</configuration>
+-->
+
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+	<vType accel="1.0" decel="5.0" id="CarC" length="5.0" minGap="2.5" maxSpeed="40.0" sigma="0.5" />
+
+
+    <vehicle id="0" depart="54000" type="CarC" color="1,0,0">
+        <route edges="191132913 67214837#2 67214837#3 -67209975 420910008 191353111#1 191353111#2 191353111#3 191353111#4 191353111#5 191353111#6 84515125#1 84515125#3 84515125#4 84515125#5 84515125#6 84515126"/>
+    </vehicle>
+</routes>

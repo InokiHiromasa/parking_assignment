@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<edges xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/edges_file.xsd">
+  <edge id="0000_0018" from="0000" to="0018" />
+
+  <edge id="0018_0718" from="0018" to="0718" />
+  <edge id="0718_1418" from="0718" to="1418" />
+  <edge id="1418_2118" from="1418" to="2118" />
+
+  <edge id="0215_0212" from="0215" to="0212" />
+  <edge id="0212_0209" from="0212" to="0209" />
+  <edge id="0209_0206" from="0209" to="0206" />
+  <edge id="0206_0203" from="0206" to="0203" />
+
+  <edge id="0718_0715" from="0718" to="0715" />
+  <edge id="0715_0712" from="0715" to="0712" />
+  <edge id="0712_0709" from="0712" to="0709" />
+  <edge id="0709_0706" from="0709" to="0706" />
+
+  <edge id="P01" from="0715" to="0415" />
+  <edge id="P02" from="0712" to="0412" />
+  <edge id="P03" from="0709" to="0409" />
+  <edge id="P04" from="0706" to="0406" />
+
+  <edge id="0415_0215" from="0415" to="0215" />
+  <edge id="0412_0212" from="0412" to="0212" />
+  <edge id="0409_0209" from="0409" to="0209" />
+  <edge id="0406_0206" from="0406" to="0206" />
+
+  <edge id="0915_0912" from="0915" to="0912" />
+  <edge id="0912_0909" from="0912" to="0909" />
+  <edge id="0909_0906" from="0909" to="0906" />
+  <edge id="0906_0903" from="0906" to="0903" />
+
+  <edge id="1418_1415" from="1418" to="1415" />
+  <edge id="1415_1412" from="1415" to="1412" />
+  <edge id="1412_1409" from="1412" to="1409" />
+  <edge id="1409_1406" from="1409" to="1406" />
+
+  <edge id="P05" from="1415" to="1115" />
+  <edge id="P06" from="1412" to="1112" />
+  <edge id="P07" from="1409" to="1109" />
+  <edge id="P08" from="1406" to="1106" />
+
+  <edge id="1115_0915" from="1115" to="0915" />
+  <edge id="1112_0912" from="1112" to="0912" />
+  <edge id="1109_0909" from="1109" to="0909" />
+  <edge id="1106_0906" from="1106" to="0906" />
+
+  <edge id="1615_0912" from="1615" to="1612" />
+  <edge id="1612_0909" from="1612" to="1609" />
+  <edge id="1609_0906" from="1609" to="1606" />
+  <edge id="1606_0903" from="1606" to="1603" />
+
+  <edge id="2118_2115" from="2118" to="2115" />
+  <edge id="2115_2112" from="2115" to="2112" />
+  <edge id="2112_2109" from="2112" to="2109" />
+  <edge id="2109_2106" from="2109" to="2106" />
+
+  <edge id="P09" from="2115" to="1815" />
+  <edge id="P10" from="2112" to="1812" />
+  <edge id="P11" from="2109" to="1809" />
+  <edge id="P12" from="2106" to="1806" />
+
+  <edge id="1815_1615" from="1815" to="1615" />
+  <edge id="1812_1612" from="1812" to="1612" />
+  <edge id="1809_1609" from="1809" to="1609" />
+  <edge id="1806_1606" from="1806" to="1606" />
+
+  <edge id="0203_0903" from="0203" to="0903" />
+  <edge id="0903_1603" from="0903" to="1603" />
+  <edge id="1603_2103" from="1603" to="2103" />
+
+  <edge id="2103_2100" from="2103" to="2100" />
+
+
+  <edge id="in" from="-1000" to="-0200" />
+  <edge id="-0200_0000" from="-0200" to="0000" />
+  <edge id="0000_2100" from="0000" to="2100" />
+  <edge id="out" from="2100" to="3000" />
+</edges>
