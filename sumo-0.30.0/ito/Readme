@@ -1,4 +1,6 @@
-Readme
+サーバ側：fuji-se_core -> cop_inoki_server.py
+アプリ側：script -> h27_data_test_use.py(中でando_appの中身を使っている、inoki_appは関係ないです）
+
 
 シミュレーションの仕方
 1、ターミナルでfuji-se_coreの中のcop_inoki_server.pyを実行
